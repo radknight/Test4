@@ -1,3 +1,3 @@
 # Testin SSH
 
-Good Luck!
+SSH is not setup correctly.
