@@ -1,3 +1,3 @@
-# Testin SSH
+# Testing SSH
 
 SSH is not setup correctly.
